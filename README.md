@@ -21,7 +21,7 @@ The Arduino uses PWM signals to control Red, Green, and Blue pins, producing dif
 ![Circuit](rgb_led_circuit.png.png)
 ##  Code
 
-The code is available in `project.ino`
+The code is available here: [project.ino](project.ino)
 
 ## Applications
 
